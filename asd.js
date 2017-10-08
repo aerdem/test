@@ -1,4 +1,5 @@
 var stop_autobet = false;
+var kk = "test";
 var autobet_dnr = false;
 var autobet_running = false;
 var free_play_sound = false;
